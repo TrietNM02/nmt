@@ -1,0 +1,14 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.container-login-signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 150px;
+  height: 100vh;
+  margin: 0;
+}
